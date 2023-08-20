@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Weather</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/stylesheet.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon" type="image/png" href="https://img.icons8.com/?size=512&id=qA3w9Yp2vY7r&format=png">
+
+</head>
+
+<body>
+    <button id="location-button" class="button-40">
+        <i class="fa-solid fa-location-crosshairs"></i>  Set Current Position
+      </button>
+    <div class="card">
+        <div class="search">
+            <input type="text" placeholder="Spain" spellcheck="false">
+            <button class="button-84"><i class="fa-solid fa-magnifying-glass"></i></button>
+        </div>
+        <ul
+        id="autocomplete-results"
+        class="hidden"
+        role="listbox"
+        aria-label="Search for a country">
+        </ul>
+        <div class="weather">
+            
+            <h2 class="city">Pamplona</h2><h3 class="country">ES</h3>
+            <div class="pack">
+                <img src="./imagenes/rain.png" class="weather-icon">
+                <h1 class="temp">22°C</h1>
+            </div>
+
+            <div class="details">
+                <div class="col">
+                    <img src="imagenes/humidity.png">
+                    <div>
+                        <p class="humidity">50%</p>
+                        <p>Humidity</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <img src="imagenes/wind.png">
+                    <div>
+                        <p class="wind">10 km/h</p>
+                        <p>Wind Speed</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/app.js" async defer></script>
+
+</body>
+
+</html>
