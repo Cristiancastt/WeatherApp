@@ -2,13 +2,19 @@
 
 ¡Bienvenido a la Aplicación del Clima! Esta aplicación web te permite consultar el pronóstico del clima para diversas ciudades alrededor del mundo. Puedes buscar una ciudad específica, obtener detalles del clima e incluso configurar tu posición actual para actualizaciones rápidas del clima.
 
+![Pagina](https://media.discordapp.net/attachments/1052317488412643338/1142958856335523860/image.png?width=576&height=245)
+
 ## Características
 
 - **Búsqueda de Ciudades:** Utiliza la barra de búsqueda para consultar el pronóstico del clima de una ciudad específica. Puedes ingresar el nombre de la ciudad y presionar "Buscar" o presionar la tecla "Enter" para obtener información del clima.
 
 - **Autocompletado:** A medida que comiences a escribir en la barra de búsqueda, la aplicación proporcionará sugerencias de autocompletado basadas en tu entrada. Haz clic en una sugerencia para seleccionar rápidamente una ciudad.
 
+![Autocompletado](https://media.discordapp.net/attachments/1052317488412643338/1142959298251608064/image.png?width=576&height=268)
+
 - **Configurar Posición Actual:** Haz clic en el botón "Configurar Posición Actual" para obtener información del clima de tu ubicación actual utilizando la geolocalización. Ten en cuenta que la precisión de esta función puede variar según la disponibilidad de datos de ubicación.
+
+![Posicion Actual](https://media.discordapp.net/attachments/1052317488412643338/1142959375019941988/image.png?width=576&height=260)
 
 ## Uso
 
