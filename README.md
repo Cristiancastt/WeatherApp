@@ -1,4 +1,4 @@
-# Weather App README
+# Weather App
 
 ¡Bienvenido a la Aplicación del Clima! Esta aplicación web te permite consultar el pronóstico del clima para diversas ciudades alrededor del mundo. Puedes buscar una ciudad específica, obtener detalles del clima e incluso configurar tu posición actual para actualizaciones rápidas del clima.
 
