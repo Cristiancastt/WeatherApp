@@ -43,4 +43,4 @@
 
 
 ## Live Page
-[WeatherApp]([https://duckduckgo.com](https://cristiancastt.github.io/WeatherApp/)https://cristiancastt.github.io/WeatherApp/)
+[WeatherApp](https://cristiancastt.github.io/WeatherApp/)
