@@ -43,4 +43,5 @@
 
 
 ## Live Page
-[WeatherApp](https://cristiancastt.github.io/WeatherApp/)
+<a href="https://cristiancastt.github.io/WeatherApp/" target="_blank">WeatherApp</a>
+
