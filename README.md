@@ -40,3 +40,7 @@
 - Asegúrate de tener una conexión a Internet activa para obtener datos precisos sobre el clima.
 - La geolocalización puede no estar disponible o ser precisa en todos los dispositivos y navegadores.
 - Esta aplicación es solo para uso educativo y personal.
+
+
+## Live Page
+[WeatherApp]([https://duckduckgo.com](https://cristiancastt.github.io/WeatherApp/)https://cristiancastt.github.io/WeatherApp/)
